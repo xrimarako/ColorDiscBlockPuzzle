@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Color Disc</string>
+    <string name="app_id">146210002424</string>
+
+    <string name="leader_id_normal">CgkI-Kuu1qAEEAIQAA</string>
+    <string name="leader_id_fast">CgkI-Kuu1qAEEAIQAQ</string>
+    <string name="leader_id_pro">CgkI-Kuu1qAEEAIQAg</string>
+
+    <string name="ach_first_ring_id">CgkI-Kuu1qAEEAIQAw</string>
+    <string name="ach_ten_rings_id">CgkI-Kuu1qAEEAIQBA</string>
+    <string name="ach_hundred_rings_id">CgkI-Kuu1qAEEAIQBQ</string>
+    <string name="ach_thousand_rings_id">CgkI-Kuu1qAEEAIQBg</string>
+    <string name="ach_single_five_rings_id">CgkI-Kuu1qAEEAIQBw</string>
+    <string name="ach_single_ten_rings_id">CgkI-Kuu1qAEEAIQCA</string>
+    <string name="ach_single_twenty_rings_id">CgkI-Kuu1qAEEAIQCQ</string>
+    <string name="ach_single_fifty_rings_id"> CgkI-Kuu1qAEEAIQCg</string>
+    <string name="ach_single_hundred_rings_id">CgkI-Kuu1qAEEAIQCw</string>
+
+    <string name="ach_first_double_id">CgkI-Kuu1qAEEAIQDA</string>
+    <string name="ach_ten_double_id">CgkI-Kuu1qAEEAIQDQ</string>
+    <string name="ach_hundred_double_id">CgkI-Kuu1qAEEAIQDg</string>
+    <string name="ach_first_triple_id">CgkI-Kuu1qAEEAIQDw</string>
+    <string name="ach_ten_triple_id">CgkI-Kuu1qAEEAIQEA</string>
+    <string name="ach_hundred_triple_id">CgkI-Kuu1qAEEAIQEQ</string>
+    <string name="ach_single_double_triple_id">CgkI-Kuu1qAEEAIQEg</string>
+
+</resources>

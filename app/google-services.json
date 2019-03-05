@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "146210002424",
+    "firebase_url": "https://color-disc-block-puzzle.firebaseio.com",
+    "project_id": "color-disc-block-puzzle",
+    "storage_bucket": "color-disc-block-puzzle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146210002424:android:3ffbeb0526eacdb3",
+        "android_client_info": {
+          "package_name": "com.xrimarako.apps.colordiscblockpuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146210002424-dlc9r3v2ub9nb290hgc8goiufo8m69pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0QAiwU7fbAjrsxHdavxZdsnN8NQLqXHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
