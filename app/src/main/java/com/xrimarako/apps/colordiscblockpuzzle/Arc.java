@@ -1,19 +1,19 @@
 package com.xrimarako.apps.colordiscblockpuzzle;
 
-public class Arc {
+class Arc {
 
     int start;
     int size;
     int color;
 
-    public Arc(int start, int size, int color){
+    Arc(int start, int size, int color){
 
         this.start = start;
         this.size = size;
         this.color = color;
     }
 
-    public boolean hasConflict(Arc arc){
+    boolean hasConflict(Arc arc){
 
         if (this.size==0 || arc.size==0){
             return false;

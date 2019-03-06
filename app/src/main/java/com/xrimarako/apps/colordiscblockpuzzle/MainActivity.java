@@ -45,7 +45,7 @@ import java.util.List;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
-
+    //this needs a lot of work
     private MyImageView imageView;
     Random random = new Random();
 

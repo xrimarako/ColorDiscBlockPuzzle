@@ -9,7 +9,8 @@ import android.graphics.Typeface;
 import android.util.AttributeSet;
 
 public class SplashImageView extends  android.support.v7.widget.AppCompatImageView {
-
+    //TODO maybe it would be better to have here only the circle part and the other 2 texts as TextViews
+    //then you will handle also the paddings better
     private Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
     RectF logoOval;
     // RectF logoOval2;

@@ -24,4 +24,24 @@
     <string name="ach_hundred_triple_id">CgkI-Kuu1qAEEAIQEQ</string>
     <string name="ach_single_double_triple_id">CgkI-Kuu1qAEEAIQEg</string>
 
+
+    <string name="privacy_explanation">
+        User\'s privacy is a very important subject for us.\n
+        So we\'d like to inform you what sharing your device data allows us to do:\n
+        \t\t\t>  Analyze your experience and find out what to change in order to improve the game\'s performance and quality.\n
+        \t\t\t>  Identify any bugs or issues immediately and fix them as soon as possible for a better user\'s experience.\n
+        This app is totally free and contains Ads. Showing <b>personalized Ads</b> helps us keep the number of Ads as less as possible. \n
+        In addition you will be shown more relevant Ads that will most likely win your interest. \n
+        Nevertheless, you can still choose what kind of Ads to be shown.\n
+        For the above reasons we use the following platforms: \n
+        \t\t\t> <b>Firebase</b>\n
+        \t\t\t> <b>AdMob</b>\n
+        <b>Keep in mind that you will always be able to change these settings via app\'s menu.</b>
+    </string>
+
+    <string name="privacy_personalized_button"><b>Personalized</b>\nSupport Us</string>
+    <string name="privacy_non_personalized_button"><b>Non-Personalized</b>\nMore Ads</string>
+    <string name="policy_url">https://masgamesblog.wordpress.com/privacy-policies/color-disc/</string>
+    <string name="policy_url_alt">https://masgamesblog.wordpress.com/</string>
+
 </resources>

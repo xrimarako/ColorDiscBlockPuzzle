@@ -62,6 +62,13 @@ public class SplashActivity extends AppCompatActivity {
             public void run() {
 
                 //////////////debug
+
+                //here you can add something like that
+
+                /*if(BuildConfig.DEBUG){
+                    //do something
+                }*/
+
                 while (true){
 
                     try{

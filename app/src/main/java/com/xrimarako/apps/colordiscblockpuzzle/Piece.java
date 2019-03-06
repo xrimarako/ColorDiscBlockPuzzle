@@ -1,6 +1,6 @@
 package com.xrimarako.apps.colordiscblockpuzzle;
 
-public class Piece {
+class Piece {
 
     Arc arc0;
     Arc arc1;
@@ -10,10 +10,10 @@ public class Piece {
     Arc arc5;
 
     private int pieceID;
-    float deg;
+    private float deg;
     boolean entered = false;
 
-    public Piece(Arc arc0, Arc arc1, Arc arc2, Arc arc3, Arc arc4, Arc arc5, int pieceID, float deg){
+    Piece(Arc arc0, Arc arc1, Arc arc2, Arc arc3, Arc arc4, Arc arc5, int pieceID, float deg){
 
         this.arc0 = arc0;
         this.arc1 = arc1;
@@ -26,16 +26,16 @@ public class Piece {
         this.deg = deg;
     }
 
-    public int getPieceID(){
+    int getPieceID(){
         return pieceID;
     }
 
-    public Arc[] getArcs(){
+    Arc[] getArcs(){
 
         return new Arc[]{arc0, arc1, arc2, arc3, arc4, arc5};
     }
 
-    public int getScore(){
+    int getScore(){
 
         int total = 0;
 

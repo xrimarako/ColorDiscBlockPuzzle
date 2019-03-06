@@ -20,7 +20,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class MyImageView extends android.support.v7.widget.AppCompatImageView {
-
+    //this needs a lot of work
     private Paint paint = new Paint(Paint.ANTI_ALIAS_FLAG);
 
     RadialGradient radialGradient;
